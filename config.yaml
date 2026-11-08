@@ -1,0 +1,23 @@
+---
+id: nominatim-penalty-tuning-for-cjk
+base_name: nominatim-penalty-tuning-for-cjk
+tags: []
+presentation_date:
+presentation_start_time:
+presentation_end_time:
+version: 1.0.0
+licenses: []
+slideshare_id:
+speaker_deck_id:
+vimeo_id:
+youtube_id:
+width: 1920
+height: 1080
+source_code_uri:
+author:
+  markup_language: :markdown
+  name: Abe Tomoaki
+  email: abe@clear-code.com
+  rubygems_user: abetomo
+  slideshare_user:
+  speaker_deck_user:
