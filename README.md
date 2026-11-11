@@ -1,6 +1,7 @@
 # 続・Nominatimが広島平和記念資料館を見つけられない理由とその解決方法
 
-TODO: スライドの説明
+* Event: https://foss4g.hokkaido.jp/2026
+* Blog: https://www.clear-code.com/blog/2026/11/11/nominatim-penalty-tuning-for-cjk.html
 
 ## 作者向け
 
