@@ -167,7 +167,7 @@ docker compose exec -e NOMINATIM_CJK_PENALTY=on nominatim \
 
 見つからなくても良さそうなデータも見つかる…。
 
-{::note}私は真に驚くべき解説をここでしたいが、このスライドはそれを書くには狭すぎるので、ブログ記事で解説します。{:/note}
+{::note}私は真に驚くべき解説をここでしたいが、このスライドはそれを書くには狭すぎるので、ブログ記事で解説します。https://www.clear-code.com/blog/2026/11/11/nominatim-penalty-tuning-for-cjk.html{:/note}
 
 # 効果がある範囲
 
@@ -206,5 +206,5 @@ docker compose exec -e NOMINATIM_CJK_PENALTY=on nominatim \
 
 * Email: abe@clear-code.com
 * GitHub: abetomo
-* FOSS4G 2026 Hiroshima
-  * https://www.clear-code.com/blog/2026/8/19/nominatim-with-pgroonga-ja.html
+* この発表の解説記事
+  * https://www.clear-code.com/blog/2026/11/11/nominatim-penalty-tuning-for-cjk.html
